@@ -4,11 +4,30 @@ table {
     width: 80%;
 }
 
+caption {
+    font-size: 20px;
+    text-align: left;
+    padding: 16px 12px;
+}
+
 th,
 td {
-    border: 1px solid #ccc;
+    border: 3px solid #000000;
     /* Adds borders to table header cells and regular cells */
     padding: 8px 12px;
     /* Adds breathing room inside cells */
-    text-align: left;
+    text-align: center;
+}
+
+body {
+    padding: 20px;
+}
+
+table th,
+table td,
+tbody td,
+thead th {
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
