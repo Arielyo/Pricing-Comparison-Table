@@ -18,7 +18,7 @@ A responsive and accessible pricing comparison table built with semantic HTML5 a
 ## 📂 Project Structure
 
 ```text
-pricing-comparison-table/
+Pricing-Comparison-Table/
 ├── index.html     # Semantic markup for the pricing table
 ├── styles.css     # Table layout and styling rules
 └── README.md      # Project documentation
