@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    /* Merges adjacent cell borders into single lines */
+    width: 80%;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    /* Adds borders to table header cells and regular cells */
+    padding: 8px 12px;
+    /* Adds breathing room inside cells */
+    text-align: left;
+}
