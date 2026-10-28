@@ -2,6 +2,8 @@
 
 A responsive and accessible pricing comparison table built with semantic HTML5 and modern CSS.
 
+🔗 **Roadmap:** [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table)
+
 ## 🚀 Features
 
 - **Semantic HTML5:** Built using proper table markup (`<thead>`, `<tbody>`, `<tfoot>`, `<th scope="col/row">`, `<caption>`) for optimal screen-reader accessibility.
